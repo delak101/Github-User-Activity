@@ -12,3 +12,4 @@ E:\Back-end\Projects\Github User Activity\GitHubUserActivity\obj\Debug\net8.0\re
 E:\Back-end\Projects\Github User Activity\GitHubUserActivity\obj\Debug\net8.0\GitHubUserActivity.pdb
 E:\Back-end\Projects\Github User Activity\GitHubUserActivity\obj\Debug\net8.0\GitHubUserActivity.genruntimeconfig.cache
 E:\Back-end\Projects\Github User Activity\GitHubUserActivity\obj\Debug\net8.0\ref\GitHubUserActivity.dll
+E:\Back-end\Projects\Github User Activity\GitHubUserActivity\obj\Debug\net8.0\GitHubUserActivity.sourcelink.json

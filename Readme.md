@@ -1,3 +1,4 @@
+note: this project is inspired by [roadmap.sh](roadmap.sh) here's a link to the project https://roadmap.sh/projects/github-user-activity
 # GitHub User Activity
 
 [GitHub User Activity](https://github.com/delak101/Github-User-Activity) is a C# console application that fetches and displays the recent activity of a GitHub user using the GitHub API.

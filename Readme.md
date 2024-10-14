@@ -11,7 +11,7 @@ This is a C# console application that fetches and displays the recent activity o
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/GitHubUserActivity.git
+    git clone https://github.com/delak101/GitHubUserActivity.git
     cd GitHubUserActivity
     ```
 

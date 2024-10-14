@@ -1,6 +1,6 @@
 # GitHub User Activity
 
-This is a C# console application that fetches and displays the recent activity of a GitHub user using the GitHub API.
+[GitHub User Activity](https://github.com/delak101/Github-User-Activity) is a C# console application that fetches and displays the recent activity of a GitHub user using the GitHub API.
 
 ## Prerequisites
 
